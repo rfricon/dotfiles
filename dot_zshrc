@@ -1,0 +1,33 @@
+# Lines configured by zsh-newuser-install
+HISTFILE=~/.histfile
+HISTSIZE=1000
+SAVEHIST=1000
+bindkey -e
+# End of lines configured by zsh-newuser-install
+# The following lines were added by compinstall
+zstyle :compinstall filename '/home/romain/.zshrc'
+
+autoload -Uz compinit
+compinit
+# End of lines added by compinstall
+
+# Antigen
+source /usr/share/zsh/share/antigen.zsh
+
+antigen use oh-my-zsh
+
+antigen bundle git
+antigen bundle zsh-users/zsh-syntax-highlighting
+
+antigen theme muse
+
+antigen apply
+
+export EDITOR=vim
+
+export ANDROID_HOME=$HOME/Android/Sdk
+export PATH=$PATH:$HOME/.yarn/bin:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$HOME/.android/avd:$HOME/development/flutter/bin
+export ANDROID_SDK_ROOT=$ANDROID_HOME
+export ANDROID_SDK_HOME=$ANDROID_HOME
+export ANDROID_AVD_HOME=$HOME/.android/avd
+
