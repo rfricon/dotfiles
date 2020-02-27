@@ -1,0 +1,477 @@
+# Ce fichier viminfo a été généré par Vim 8.2.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Dernier motif de recherche  :
+~Msle0~/\<set\>
+
+# Dernières chaînes de substitution :
+$
+
+# Historique ligne de commande (chronologie décroissante) :
+:q!
+|2,0,1582831746,,"q!"
+:wq
+|2,0,1573241456,,"wq"
+:q
+|2,0,1572475138,,"q"
+:!
+|2,0,1571420585,,"!"
+:w
+|2,0,1545085867,,"w"
+:q1
+|2,0,1516451723,,"q1"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+? \<set\>
+|2,1,1572475417,,"\\<set\\>"
+? @$
+|2,1,1572475133,,"@$"
+? \<tower\>
+|2,1,1571420836,,"\\<tower\\>"
+?/assets
+|2,1,1540816648,47,"assets"
+?/nouveau
+|2,1,1512874231,47,"nouveau"
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+""0	LINE	0
+	export ANDROID_HOME=$HOME/Android/Sdk
+|3,1,0,1,1,0,1572475133,"export ANDROID_HOME=$HOME/Android/Sdk"
+"1	LINE	0
+	export ANDROID_HOME=$HOME/Android/Sdk
+|3,0,1,1,1,0,1545086186,"export ANDROID_HOME=$HOME/Android/Sdk"
+
+# Marques dans le fichier :
+'0  1  0  ~/projects/nestjs-task-management/.vimrc
+|4,48,1,0,1580648985,"~/projects/nestjs-task-management/.vimrc"
+'1  1  0  ~/projects/nestjs-task-management/.vmrc
+|4,49,1,0,1580648974,"~/projects/nestjs-task-management/.vmrc"
+'2  21  0  /etc/fstab
+|4,50,21,0,1574519231,"/etc/fstab"
+'3  1  0  ~/.config/fish/config.fish
+|4,51,1,0,1573241542,"~/.config/fish/config.fish"
+'4  6  1  ~/.config/fish/config.fish
+|4,52,6,1,1573241456,"~/.config/fish/config.fish"
+'5  6  1  ~/.config/fish/config.fish
+|4,53,6,1,1573241456,"~/.config/fish/config.fish"
+'6  5  0  ~/.config/fish/config.fish
+|4,54,5,0,1572478055,"~/.config/fish/config.fish"
+'7  5  0  ~/.config/fish/config.fish
+|4,55,5,0,1572478055,"~/.config/fish/config.fish"
+'8  5  0  ~/.config/fish/config.fish
+|4,56,5,0,1572478055,"~/.config/fish/config.fish"
+'9  5  0  ~/.config/fish/config.fish
+|4,57,5,0,1572478055,"~/.config/fish/config.fish"
+
+# Liste de sauts (le plus récent en premier) :
+-'  1  0  ~/projects/nestjs-task-management/.vimrc
+|4,39,1,0,1580648985,"~/projects/nestjs-task-management/.vimrc"
+-'  1  0  ~/projects/nestjs-task-management/.vimrc
+|4,39,1,0,1580648985,"~/projects/nestjs-task-management/.vimrc"
+-'  1  0  ~/projects/nestjs-task-management/.vmrc
+|4,39,1,0,1580648974,"~/projects/nestjs-task-management/.vmrc"
+-'  1  0  ~/projects/nestjs-task-management/.vmrc
+|4,39,1,0,1580648974,"~/projects/nestjs-task-management/.vmrc"
+-'  1  0  ~/projects/nestjs-task-management/.vmrc
+|4,39,1,0,1580648974,"~/projects/nestjs-task-management/.vmrc"
+-'  1  0  ~/projects/nestjs-task-management/.vmrc
+|4,39,1,0,1580648974,"~/projects/nestjs-task-management/.vmrc"
+-'  21  0  /etc/fstab
+|4,39,21,0,1574519231,"/etc/fstab"
+-'  21  0  /etc/fstab
+|4,39,21,0,1574519231,"/etc/fstab"
+-'  21  0  /etc/fstab
+|4,39,21,0,1574519231,"/etc/fstab"
+-'  21  0  /etc/fstab
+|4,39,21,0,1574519231,"/etc/fstab"
+-'  21  0  /etc/fstab
+|4,39,21,0,1574519231,"/etc/fstab"
+-'  21  0  /etc/fstab
+|4,39,21,0,1574519231,"/etc/fstab"
+-'  21  0  /etc/fstab
+|4,39,21,0,1574519231,"/etc/fstab"
+-'  21  0  /etc/fstab
+|4,39,21,0,1574519231,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1574519217,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1574519217,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1574519217,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1574519217,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1574519217,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1574519217,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1574519217,"/etc/fstab"
+-'  1  0  /etc/fstab
+|4,39,1,0,1574519217,"/etc/fstab"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241542,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  6  1  ~/.config/fish/config.fish
+|4,39,6,1,1573241456,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  1  0  ~/.config/fish/config.fish
+|4,39,1,0,1573241447,"~/.config/fish/config.fish"
+-'  5  0  ~/.config/fish/config.fish
+|4,39,5,0,1572478055,"~/.config/fish/config.fish"
+-'  5  0  ~/.config/fish/config.fish
+|4,39,5,0,1572478055,"~/.config/fish/config.fish"
+-'  5  0  ~/.config/fish/config.fish
+|4,39,5,0,1572478055,"~/.config/fish/config.fish"
+-'  5  0  ~/.config/fish/config.fish
+|4,39,5,0,1572478055,"~/.config/fish/config.fish"
+-'  5  0  ~/.config/fish/config.fish
+|4,39,5,0,1572478055,"~/.config/fish/config.fish"
+-'  5  0  ~/.config/fish/config.fish
+|4,39,5,0,1572478055,"~/.config/fish/config.fish"
+-'  5  0  ~/.config/fish/config.fish
+|4,39,5,0,1572478055,"~/.config/fish/config.fish"
+-'  5  0  ~/.config/fish/config.fish
+|4,39,5,0,1572478055,"~/.config/fish/config.fish"
+-'  5  0  ~/.config/fish/config.fish
+|4,39,5,0,1572478055,"~/.config/fish/config.fish"
+-'  5  0  ~/.config/fish/config.fish
+|4,39,5,0,1572478055,"~/.config/fish/config.fish"
+-'  5  0  ~/.config/fish/config.fish
+|4,39,5,0,1572478055,"~/.config/fish/config.fish"
+-'  5  0  ~/.config/fish/config.fish
+|4,39,5,0,1572478055,"~/.config/fish/config.fish"
+-'  5  0  ~/.config/fish/config.fish
+|4,39,5,0,1572478055,"~/.config/fish/config.fish"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/projects/nestjs-task-management/.vimrc
+	*	1580648983	0
+	"	1	0
+
+> ~/projects/nestjs-task-management/.vmrc
+	*	1580648972	0
+	"	1	0
+
+> /etc/fstab
+	*	1574519220	0
+	"	21	0
+	^	21	0
+
+> ~/.config/fish/config.fish
+	*	1573241540	0
+	"	1	0
+	^	6	2
+	.	6	1
+	+	4	65
+	+	2	14
+	+	3	0
+	+	4	65
+	+	6	1
+
+> ~/.config/fish/fishd.emilia
+	*	1572477956	0
+	"	1	0
+
+> ~/projects/io-gatsby/.git/COMMIT_EDITMSG
+	*	1572475567	0
+	"	1	41
+	^	1	42
+	.	1	41
+	+	1	41
+
+> ~/.vimrc
+	*	1572475452	0
+	"	1	0
+	^	14	1
+	.	14	0
+	+	26	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	10	0
+	+	11	0
+	+	10	0
+	+	12	0
+	+	14	0
+
+> /etc/hosts
+	*	1571420589	0
+	"	3	0
+	^	3	12
+
+> ~/projects/todolist-test/.eslintrc
+	*	1570268427	0
+	"	5	15
+	^	5	16
+	.	5	15
+	+	1	1
+	+	2	22
+	+	3	10
+	+	6	1
+	+	4	20
+	+	5	15
+
+> ~/projects/.eslintrc
+	*	1570268095	0
+	"	2	21
+	^	2	22
+	.	2	21
+	+	3	0
+	+	2	21
+
+> ~/.zshrc
+	*	1557567120	0
+	"	31	36
+	^	29	101
+	.	29	100
+	+	15	6
+	+	15	0
+	+	14	8
+	+	13	0
+	+	23	12
+	+	23	0
+	+	21	0
+	+	20	0
+	+	18	0
+	+	21	0
+	+	23	0
+	+	22	19
+	+	26	16
+	+	22	18
+	+	29	63
+	+	30	37
+	+	32	42
+	+	28	36
+	+	30	0
+	+	29	100
+
+> ~/.antigen/init.zsh
+	*	1557566853	0
+	"	71	0
+
+> /etc/environment
+	*	1545086575	0
+	"	1	0
+
+> /etc/profile
+	*	1545086565	0
+	"	40	0
+
+> ~/.android/avd/Nexus_5X_API_28.avd/config.ini
+	*	1545086095	0
+	"	34	17
+	^	34	17
+	.	34	17
+	+	34	17
+
+> /etc/pacman.conf
+	*	1545074416	0
+	"	93	1
+	^	93	2
+
+> /etc/retroarch.cfg
+	*	1540816662	0
+	"	757	2
+	^	757	3
+
+> /etc/locale.conf
+	*	1538772072	0
+	"	1	0
+
+> /tmp/trizen-romain/spotify/PKGBUILD
+	*	1537660244	0
+	"	24	83
+	^	24	84
+	.	24	83
+	+	5	16
+	+	7	24
+	+	9	14
+	+	25	17
+	+	5	16
+	+	7	24
+	+	9	14
+	+	24	83
+
+> ~/projects/jhipster-test/.git/COMMIT_EDITMSG
+	*	1524914405	0
+	"	1	25
+	^	1	26
+	.	1	25
+	+	1	25
+
+> /tmp/trizen-romain/paper-icon-theme/PKGBUILD
+	*	1524856288	0
+	"	1	0
+
+> /tmp/trizen-romain/jdk/jconsole-jdk9.desktop
+	*	1516451721	0
+	"	1	0
+
+> ~/projects/todolist/.git/COMMIT_EDITMSG
+	*	1513122164	0
+	"	1	9
+	^	1	10
+	.	1	9
+	+	1	9
+
+> /usr/share/themes/Adwaita/gtk-2.0/gtkrc
+	*	1512942420	0
+	"	1	0
+
+> ~/projects/todolist/README.md
+	*	1512937452	0
+	"	1	14
+	^	1	15
+	.	1	14
+	+	1	14
+
+> /usr/share/zsh/share/antigen.zsh
+	*	1512917386	0
+	"	708	2
+
+> /etc/X11/xorg.conf.d/00-keyboard.conf
+	*	1512874299	0
+	"	1	0
+
+> /etc/mkinitcpio.conf
+	*	1512874261	0
+	"	66	28
+	^	66	29
+	.	66	28
+	+	66	28
